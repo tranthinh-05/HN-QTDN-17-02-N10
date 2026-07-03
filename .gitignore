@@ -16,12 +16,14 @@ __pycache__/
 # hg stuff
 *.orig
 status
+*Zone.Identifier
 # odoo filestore
 odoo/filestore
 # maintenance migration scripts
 odoo/addons/base/maintenance
 # window installation config file
 /odoo.conf
+/odoo.confx
 
 # generated for windows installer?
 install/win32/*.bat
